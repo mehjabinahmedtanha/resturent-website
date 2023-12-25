@@ -1,0 +1,167 @@
+@import url('https://fonts.googleapis.com/css2?family=Grand+Hotel&family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+/*
+font-family: 'Grand Hotel', cursive;
+font-family: 'Montserrat', sans-serif;
+*/
+
+.mooduul{
+    
+    height:100px ;
+    display: flex;
+    align-items: center;
+}
+.soitan{
+   
+    height:100px ;
+    
+}
+.banner{
+   height:100vh ;
+   background: url(../images/banner.png);
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center;
+   padding-top: 20px;
+   overflow: hidden;
+
+}
+.soitan{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    color: white;
+
+
+
+}
+.soitan p{
+   padding-right:70px ;
+   font-size:25px ;
+   font-family: 'Montserrat', sans-serif;
+   text-transform:capitalize ;
+   margin: 0;
+   justify-content: space-between;
+   display: flex;
+}
+.soitan i{
+   font-size:25px ;
+
+}
+.title{
+   font-family: 'Grand Hotel', cursive;
+   color:#ffc200 ;
+   font-size:125px ;
+
+}
+.here{
+   font-size:30px ;
+   color: white;
+
+}
+.now{
+   font-size:19px ;
+   font-weight:700 ;
+   font-family: 'Montserrat', sans-serif;
+   background-color:#ffc200 ;
+   color:#333333;
+   border: none;
+   padding-top:6px ;
+   padding-bottom:6px ;
+   padding-left:46px ;
+   padding-right:46px ;
+   border-radius:2px ;
+   margin-top:20px ;
+}
+ .banner-inner-item{
+   margin-top: 140px;
+   margin-left: 150px;
+   padding-left:170px ;
+
+ }
+ .best{
+   font-size:75px ;
+   font-family: 'Grand Hotel', cursive;
+   color:#333333 ;
+   text-transform:capitalize ;
+   text-align:center ;
+ }
+ .seller{
+   font-size:25px ;
+   color:#333333 ;
+   font-family: 'Montserrat', sans-serif;
+   text-align:center ;
+   margin-bottom:80px ;
+ }
+ .grand{
+   text-transform:capitalize ;
+   font-family: 'Grand Hotel', cursive;
+   color:#333333 ;
+ }
+ .monseeee{
+   color:#333333 ;
+   font-size:17px ;
+   font-family: 'Montserrat', sans-serif;
+   margin-bottom: ;
+ }
+ .colum{
+   text-align:center ;
+ }
+ .imoog{
+   width: 235px ;
+   margin-bottom:30px ;
+ }
+ .sec{
+    overflow: hidden;
+    padding-top: 140px;
+    padding-bottom: 70px;
+ }
+ .captain-tag{
+    background: url(../images/oriental-bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: unset ;
+    padding-top:140px;
+    padding-bottom:70px ;
+    overflow: hidden;
+    color: darkgoldenrod;
+
+ }
+.taste{
+    font-family: 'Grand Hotel', cursive;
+    font-size:100px ;
+    color:#ffc200 ;
+    text-transform:capitalize ;
+} 
+.chota-raiting{
+    font-family: 'Montserrat', sans-serif;
+    color:#ffffff;
+    font-size:20px ;
+    line-height:30px ;
+    padding-top:20px ;
+}
+.order-karo{
+    font-size:19px ;
+    font-weight:700;
+    color:#333333 ;
+    background-color:#ffc200 ;
+    border: none;
+    padding-top:13px ;
+    padding-bottom:13px ;
+    padding-left:55px ;
+    padding-right:55px ;
+    border-radius:3px ;
+    font-family: 'Montserrat', sans-serif;
+    text-transform:uppercase ;
+    margin-top:32px ;
+
+}
+.tomato-img{
+    width:460px ;
+}
+.col-md-6{
+    text-align:center ;
+}
+.colam{
+    text-align:center ;
+}
