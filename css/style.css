@@ -31,9 +31,6 @@ font-family: 'Montserrat', sans-serif;
     justify-content: right;
     align-items: center;
     color: white;
-
-
-
 }
 .soitan p{
    padding-right:70px ;
@@ -159,9 +156,169 @@ font-family: 'Montserrat', sans-serif;
 .tomato-img{
     width:460px ;
 }
-.col-md-6{
-    text-align:center ;
+.mane-tag{
+    background: url(../images/background.png);
+    background-color: #303030;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: unset ;
+    padding-top:140px;
+    padding-bottom:70px ;
+    overflow: hidden;
+    
 }
-.colam{
-    text-align:center ;
+.statis{
+    font-size:100px;
+    color:#ffc200;
+    font-family: 'Grand Hotel', cursive;
+    text-transform: capitalize;
 }
+.chota-bala-lekha{
+    font-size:24px;
+    color:#ffffff;
+    font-family: 'Montserrat', sans-serif;
+    line-height:27px;
+    margin-bottom:150px ;
+}
+.leader{
+    text-align:center;
+}
+.circle{
+   border-radius:100%; 
+   color: white;
+   border-color: white;
+   border-style: solid;
+   border-width: 4px;
+   height:220px ;
+   width:220px ;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+
+}
+.one{
+   font-size:50px;
+   color:#ffc200;
+   font-family: 'Montserrat', sans-serif;
+   font-weight:700;
+   display:flex;
+   text-align:center; 
+   margin-bottom: 0;
+}
+.outlets{
+    font-size:29px ;
+    font-weight:700;
+    font-family: 'Montserrat', sans-serif;
+    text-transform:uppercase ;
+    display:flex;
+    text-align:center ;
+    margin-bottom: 0;
+
+}
+.kharap-bandor{
+    justify-content: center;
+    display: flex;
+
+}
+.captoin-teg{
+    background: url(../images/or-bg-2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom ;
+    padding-top:140px;
+    padding-bottom:70px ;
+    overflow: hidden;
+    color: darkgoldenrod;
+
+
+}
+
+.leader-chiken{
+   background: url(../images/soitan.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom ;
+    padding-top:250px;
+    padding-bottom:200px ;
+    overflow: hidden;
+    text-align: center;
+    margin-top: 140px;
+
+}
+.chota-lekha{
+    font-size: 33px;
+    font-family: 'Montserrat', sans-serif;
+    color:#333333 ;
+
+}
+.lenora{
+    font-size:74px ;
+    color:#333333 ;
+    font-family: 'Grand Hotel', cursive;
+
+}
+.footer{
+    padding-top: 140px;
+    padding-bottom: 140px;
+    background: #303030;
+}
+.footer-l-title{
+    color: white;
+    font-size: 25px;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+}
+.footer-l-subtitle{
+    font-size: 23px;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 20px;
+}
+.icons-wrapper i{
+    background: white;
+    color: #303030;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    line-height: 30px;
+    border-radius: 100%;
+    margin-right: 8px;
+}
+.about-p{
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 5px;
+}
+.cribe{
+    font-size: 100px;
+    color:#333333 ;
+    font-family: 'Grand Hotel', cursive;
+}
+.last-teg{
+    background: url(../images/lorem-bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom ;
+    padding-top:140px;
+    padding-bottom:140px ;
+    overflow: hidden;
+    text-align: center;
+    background-color:#f6f2e9 ;
+}
+.last-lekha{
+    font-size:30px;
+    font-family: 'Montserrat', sans-serif;
+    color:#333333 ;
+}
+/*.last-button{
+    font-size: 25px;
+    border: none;
+    background-color: white;
+    color:#9c9696 ;
+    padding-left: 20px;
+    padding-right:180px ;
+    margin-left:-400px ;
+}*/
