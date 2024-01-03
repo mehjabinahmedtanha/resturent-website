@@ -313,38 +313,41 @@ font-family: 'Montserrat', sans-serif;
     font-family: 'Montserrat', sans-serif;
     color:#333333 ;
 }
+.email::placeholder{
+    text-transform: capitalize;
+    font-family: 'Montserrat', sans-serif;
+    color:#bababa ;
+    font-size:25px ;
+    padding-left:25px ;
+
+}
 .email{
     border: none;
-    height: 60px;
-    width: 550px;
-    padding-left: 20px;
-    font-family: 'Montserrat', sans-serif;
-    font-size: 25px;
-    box-shadow: 5px 5px 16px 2px #cfcfcf;
-    border-top-left-radius: 6px;
-    border-bottom-left-radius: 6px;
+    height:50px;
+    width:549px ;
+    box-shadow:-2px 4px 18px 2px #bbb3b3;
+    border-top-left-radius:3px ;
+    border-bottom-left-radius:3px ;
 }
-.email::placeholder{
-    color: #bababa;
-}
-.subscribe{
+.Subscribe{
     border: none;
-    background: #FFC200;
-    color: #333333;
-    font-weight: 700;
-    font-size: 25px;
-    height: 60px;
+    background-color:#FFC200 ;
+    font-size:25px ;
+    font-weight:700 ;
+    color:#333333 ;
     font-family: 'Montserrat', sans-serif;
-    text-transform: uppercase;
-    padding-left: 32px;
-    padding-right: 32px;
-    box-shadow: 5px 5px 16px 2px #cfcfcf;
-    border-top-right-radius: 6px;
-    border-bottom-right-radius: 6px;
+    height:50px;
+    margin: 0px;
+    padding-left:25px ;
+    padding-right:25px ;
+    box-shadow:-2px 4px 18px 2px #bbb3b3;
+    border-top-right-radius:3px ;
+    border-bottom-right-radius:3px ;
+
 }
-.subscribe-parent{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-top: 60px;
+.parent{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     margin-top:75px ;
 }
