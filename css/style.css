@@ -313,12 +313,38 @@ font-family: 'Montserrat', sans-serif;
     font-family: 'Montserrat', sans-serif;
     color:#333333 ;
 }
-/*.last-button{
-    font-size: 25px;
+.email{
     border: none;
-    background-color: white;
-    color:#9c9696 ;
+    height: 60px;
+    width: 550px;
     padding-left: 20px;
-    padding-right:180px ;
-    margin-left:-400px ;
-}*/
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+    box-shadow: 5px 5px 16px 2px #cfcfcf;
+    border-top-left-radius: 6px;
+    border-bottom-left-radius: 6px;
+}
+.email::placeholder{
+    color: #bababa;
+}
+.subscribe{
+    border: none;
+    background: #FFC200;
+    color: #333333;
+    font-weight: 700;
+    font-size: 25px;
+    height: 60px;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    padding-left: 32px;
+    padding-right: 32px;
+    box-shadow: 5px 5px 16px 2px #cfcfcf;
+    border-top-right-radius: 6px;
+    border-bottom-right-radius: 6px;
+}
+.subscribe-parent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 60px;
+}
